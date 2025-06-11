@@ -10,7 +10,7 @@ Atualmente, para garantir uma execução fluida do Android Studio em conjunto co
 ![image](img/01/android-specs.png)
 <p style="text-align:center;font-size:0.8em"> Especificações recomendadas para Linux. Retirado da <a href="https://developer.android.com/studio/install?hl=pt-br#linux">Documentação Android</a></p>
 
-Para depurar aplicativos do Android Studio no seu *smartphone*/*tablet*, você deverá primeiro habilitar o recurso `Opções de Desenvolvedor` em `Configurações` ![image](../../.icons/gear.svg). Busque como habilitar este recurso para o modelo do seu dispositivo. Por padrão o caminho para esta tarefa é seguindo os passos abaixo:
+Para depurar aplicativos do Android Studio no seu *smartphone*/*tablet*, você deverá primeiro habilitar o recurso `Opções de Desenvolvedor` em `Configurações` ![image](../../../.icons/gear.svg). Busque como habilitar este recurso para o modelo do seu dispositivo. Por padrão o caminho para esta tarefa é seguindo os passos abaixo:
 
 1) Buscar em `Configurações` por `Versão do SO` (ou `Número de Compilação`, ou `Número da Versão`...), ou algo parecido. Geralmente esta informação se localiza em um menu como `Sobre o telefone` e/ou `Informações de software`.
 
@@ -46,7 +46,7 @@ Depois de habilitar `Opções de Desenvolvedor`, você terá duas formas básica
 
 Caso seu dispositivo tenha suporte para espelhamento para depuração. Este recurso irá permitir com que a tela do seu dispositivo físico seja exibida no painel de `Running Devices` do Android Studio enquanto você realiza a depuração. ![image](img/01/running-devices-icon.png)
 
-1) Clique no menu sanduíche ![image](../../.icons/menu.svg) no canto superior esquerdo do Android Studio e clique em `File > Settings`, ou pressione `CTRL + ALT + S`.
+1) Clique no menu sanduíche ![image](../../../.icons/menu.svg) no canto superior esquerdo do Android Studio e clique em `File > Settings`, ou pressione `CTRL + ALT + S`.
 
 2) No menu lateral, busque por `Tools`, expanda o menu e encontre `Device Mirroring`.
 
@@ -60,7 +60,7 @@ Caso seu dispositivo tenha suporte para espelhamento para depuração. Este recu
 
 É recomendável que você instale o SDK Platform Tools mais recente para evitar problemas de compatibilidade.
 
-1) Abra o `SDK Manager`, você pode encontrar o opção clicando em ![image](../../.icons/gear.svg) no canto superior direito da janela do Android Studio.
+1) Abra o `SDK Manager`, você pode encontrar o opção clicando em ![image](../../../.icons/gear.svg) no canto superior direito da janela do Android Studio.
 
 2) Clique na aba `SDK Tools` e marque `Android SDK Platform-Tools`.
 
